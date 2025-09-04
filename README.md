@@ -120,7 +120,7 @@ Basics of packet sniffing and analysis using Python.
 
 ## 🎥 Demo Video & Usage Guide
 
-🎥 Watch the demo: how to install, run, and analyze packets step by step (no narration, just clear instructions) [Demo Video](Demo%20Video.md).
+ Watch the demo: how to install, run, and analyze packets step by step (no narration, just clear instructions) [Demo Video](Demo%20Video.md).
 
 
 ---
