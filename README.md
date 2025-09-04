@@ -61,11 +61,61 @@ Basics of packet sniffing and analysis using Python.
 ---
 
 ## 📂 Example Output (console)
+
 `
 [2025-09-04 13:45:21] 192.168.1.10 --> 8.8.8.8 | Protocol: UDP
    Ports: 54321 -> 53
    Payload: example.dns.query.....
 `
+
+### 📊 Example CSV Output
+
+```csv
+    timestamp                  src            dst            protocol     sport      dport         payload
+2025-09-04  13:45:21       192.168.1.10      8.8.8.8           UDP        54321       53         dns    query...
+2025-09-04  13:45:22       192.168.1.15      93.184.216.34     TCP        51514       80         GET /index.html
+```
+
+
+### Example JSON Output
+
+```
+## 🗂 Example JSON Output
+
+```json
+[
+  {
+    "timestamp": "2025-09-04 13:45:21",
+    "src": "192.168.1.10",
+    "dst": "8.8.8.8",
+    "protocol": "UDP",
+    "sport": 54321,
+    "dport": 53,
+    "payload": "dns query..."
+  },
+  {
+    "timestamp": "2025-09-04 13:45:22",
+    "src": "192.168.1.15",
+    "dst": "93.184.216.34",
+    "protocol": "TCP",
+    "sport": 51514,
+    "dport": 80,
+    "payload": "GET /index.html"
+  }
+]
+```
+
+### 📝 Example TXT Output
+
+```txt
+[2025-09-04 13:45:21] 192.168.1.10 --> 8.8.8.8 | Protocol: UDP
+   Ports: 54321 -> 53
+   Payload: dns query...
+
+[2025-09-04 13:45:22] 192.168.1.15 --> 93.184.216.34 | Protocol: TCP
+   Ports: 51514 -> 80
+   Payload: GET /index.html
+```
 
 ---
 
