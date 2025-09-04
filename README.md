@@ -62,11 +62,11 @@ Basics of packet sniffing and analysis using Python.
 
 ## 📂 Example Output (console)
 
-`
+```
 [2025-09-04 13:45:21] 192.168.1.10 --> 8.8.8.8 | Protocol: UDP
    Ports: 54321 -> 53
    Payload: example.dns.query.....
-`
+```
 
 ### 📊 Example CSV Output
 
@@ -120,7 +120,7 @@ Basics of packet sniffing and analysis using Python.
 
 ## 🎥 Demo Video & Usage Guide
 
-📖 For step-by-step instructions and a detailed explanation, see:[Demo Video.md](./Demo%20Video.md)
+📖 For step-by-step instructions and a detailed explanation, see [Demo Video.md](./Demo%20Video.md)
 
 
 ---
