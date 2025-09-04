@@ -5,7 +5,9 @@
 
 “Prerequisites: Python and Scapy; run with admin or sudo.”
 
-- Install with `pip install scapy` then run python (name of file in which you saved the code).py like in my case I have used `python p2.py`.
+- Copy the code from my **"sniff.py"** and paste it in **Visual Studio Code** and save it.
+
+- Install with `pip install scapy` then run python (name of file in which you saved the code).py like in my case I have     used `python p2.py`.
 
 - You’ll see packets printed live — source, destination, protocol, ports, and a small payload preview.
 
