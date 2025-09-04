@@ -5,6 +5,17 @@ This project helps understand how data flows in a network and the basics of prot
 
 ---
 
+## 📜 License & Disclaimer
+
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
+
+### ⚠️ Special Disclaimer
+- This project is created for **educational and research purposes only**.  
+- It can be used for **personal and commercial purposes**.  
+- The author(s) are **NOT responsible** for any misuse, damage, or illegal activities caused by this software.  
+- By using this tool, you accept that **you are fully responsible** for your actions.  
+- Please use it **ethically and responsibly**, only on networks and systems you own or have explicit permission to test.
+
 ### 🎯 Features
 
 - Captures live network packets.
