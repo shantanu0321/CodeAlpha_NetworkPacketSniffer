@@ -78,10 +78,7 @@ Basics of packet sniffing and analysis using Python.
 ```
 
 
-### Example JSON Output
-
-```
-## 🗂 Example JSON Output
+###  🗂 Example JSON Output
 
 ```json
 [
