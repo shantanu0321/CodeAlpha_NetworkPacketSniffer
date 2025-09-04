@@ -5,7 +5,7 @@ This project helps understand how data flows in a network and the basics of prot
 
 ---
 
-## 📜 License & Disclaimer
+### 📜 License & Disclaimer
 
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
 
