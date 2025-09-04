@@ -5,18 +5,18 @@ This project helps understand how data flows in a network and the basics of prot
 
 ---
 
-### 📜 License & Disclaimer
+##  📜 License & Disclaimer
 
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
 
-### ⚠️ Special Disclaimer
+## ⚠️ Special Disclaimer
 - This project is created for **educational and research purposes only**.  
 - It can be used for **personal and commercial purposes**.  
 - The author(s) are **NOT responsible** for any misuse, damage, or illegal activities caused by this software.  
 - By using this tool, you accept that **you are fully responsible** for your actions.  
 - Please use it **ethically and responsibly**, only on networks and systems you own or have explicit permission to test.
 
-### 🎯 Features
+## 🎯 Features
 
 - Captures live network packets.
 
@@ -34,7 +34,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 
 ---
 
-### 🚀 How to Run
+## 🚀 How to Run
 
 1. Install dependencies:
    
@@ -50,7 +50,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 
    ---
 
-### 📖 Learning Outcomes
+## 📖 Learning Outcomes
 
 How packets are structured (IP header, protocol, ports, payload).
 
@@ -118,9 +118,9 @@ Basics of packet sniffing and analysis using Python.
 
 ---
 
-### 🎥 Demo Video & Usage Guide
+## 🎥 Demo Video & Usage Guide
 
-📖 For step-by-step instructions and a detailed explanation, see:
-👉 Demo Video [Demo Video.md](./Demo%20Video.md)
+📖 For step-by-step instructions and a detailed explanation, see:[Demo Video.md](./Demo%20Video.md)
+
 
 ---
