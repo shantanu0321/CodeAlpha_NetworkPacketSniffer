@@ -74,6 +74,7 @@ Basics of packet sniffing and analysis using Python.
     timestamp                  src            dst            protocol     sport      dport         payload
 2025-09-04  13:45:21       192.168.1.10      8.8.8.8           UDP        54321       53         dns    query...
 2025-09-04  13:45:22       192.168.1.15      93.184.216.34     TCP        51514       80         GET /index.html
+
 ```
 
 
@@ -103,6 +104,7 @@ Basics of packet sniffing and analysis using Python.
     "payload": "GET /index.html"
   }
 ]
+
 ```
 
 ### 📝 Example TXT Output
@@ -119,8 +121,9 @@ Basics of packet sniffing and analysis using Python.
 
 ---
 
-##  Demo Video & Usage Guide
+### 🎥 Demo Video & Usage Guide
 
-  For step-by-step instructions and a video demonstration, see [Demo Video.md](./Demo%20Video.md)
+📖 For step-by-step instructions and a detailed explanation, see:
+👉 Demo Video [Demo Video.md](./Demo%20Video.md)
 
 ---
