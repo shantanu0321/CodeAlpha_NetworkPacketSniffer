@@ -5,7 +5,7 @@ This project helps understand how data flows in a network and the basics of prot
 
 ---
 
-## 🎯 Features
+### 🎯 Features
 
 Captures live network packets.
 
@@ -23,7 +23,7 @@ PCAP (for Wireshark analysis)
 
 ---
 
-🚀 How to Run
+### 🚀 How to Run
 
 1. Install dependencies:
    
@@ -39,7 +39,7 @@ PCAP (for Wireshark analysis)
 
    ---
 
-## 📖 Learning Outcomes
+### 📖 Learning Outcomes
 
 How packets are structured (IP header, protocol, ports, payload).
 
