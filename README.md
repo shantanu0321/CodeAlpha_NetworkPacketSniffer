@@ -7,19 +7,19 @@ This project helps understand how data flows in a network and the basics of prot
 
 ### 🎯 Features
 
-Captures live network packets.
+- Captures live network packets.
 
-Displays source/destination IPs, ports, protocol, and payload in real time.
+- Displays source/destination IPs, ports, protocol, and payload in real time.
 
-Saves captured data in multiple formats:
+- Saves captured data in multiple formats:
 
-TXT (human-readable log)
-
-CSV (structured data)
-
-JSON (machine-readable format)
-
-PCAP (for Wireshark analysis)
+  - **TXT** (human-readable log)
+  
+  - **CSV** (structured data)
+  
+  - **JSON** (machine-readable format)
+  
+  - **PCAP** (for Wireshark analysis)
 
 ---
 
